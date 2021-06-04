@@ -1,0 +1,48 @@
+React Native
+- Biblioteca para desenvolver aplicativos para android e ios
+- Baseado em javascript
+- Um único código conseguimos gerar para ambas plataformas seja android ou ios
+
+Porque react native?
+- Comunidade grande e ativa
+- Mercado aquecido
+- Velocidade e custo benefício
+
+Expo
+- É um framework react native
+- Mais produtividade e facilidade no desenvolvimento
+- Funcionalidades pre-instaladas
+- Instalar de forma global: npm install --global expo-cli
+- Iniciar um projeto: expo init my-project
+- Rodar o projeto: yarn start
+
+Android studio 
+- Emulador do android para testar as aplicações
+
+Styled Components
+- Usado para unir css-in-js para facilitar na criação de components react
+- Instalar : yarn add styled-components
+
+React navigation
+- Usado para auxiliar na navegação do app
+- Instalar dependencias
+- Instalar as rotas que irao usar
+- Configurar as rotas e gesture handle
+
+Expo clipboard
+- Copia os dados do usuario
+- Fornece uma interface para obter e definir o conteúdo da área de transferência no Android, iOS e Web
+- Instalar yarn add expo-clipboard
+
+Bitly
+- Api para manipular links
+- Gerar token e manipular as requisições
+
+Axios
+- Cliente http baseado em promisse para o browser e node js
+- Manda e pega requisições
+- Instalar yarn add axios
+
+Expo async storage
+- Persistencia de dados offline no app mobile
+- Instalar expo install @react-native-async-storage/async-storage
