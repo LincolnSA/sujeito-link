@@ -44,7 +44,7 @@ No link abaixo você encontra o layout do projeto mobile. Lembrando que você pr
 
 Feito com ♥ by Lincoln silva :wave:
 
-[Instagram](https://www.instagram.com/_lincolnsilva_/)
-[Github](https://github.com/LincolnSA)
-[Portfólio](https://lincolnsa.github.io/portfolio/)
-[devlincolnsilva@gmail.com](mailto:devlincolnsilva@gmail.com?subject=Oi%20lincoln)
+- [Instagram](https://www.instagram.com/_lincolnsilva_/)
+- [Github](https://github.com/LincolnSA)
+- [Portfólio](https://lincolnsa.github.io/portfolio/)
+- [devlincolnsilva@gmail.com](mailto:devlincolnsilva@gmail.com?subject=Oi%20lincoln)
